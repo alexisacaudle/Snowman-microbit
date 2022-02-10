@@ -1,5 +1,10 @@
 
 > Open this page at [https://alexisacaudle.github.io/snowman-microbit/](https://alexisacaudle.github.io/snowman-microbit/)
+> Also, open this page at [https://snowman-with-microbit.alexiscaudle.repl.co/](https://snowman-with-microbit.alexiscaudle.repl.co/)
+> Connect your micro:bit to your computer using a USB cable.
+> Download the program from MakeCode onto your micro:bit.
+> Click on the Snowman drawing on Replit. Select your microbit from the device menu.
+> Tilt the micro:bit left to right to see it move across the canvas.
 
 ## Use as Extension
 
